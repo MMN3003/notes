@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "51bedade3e05d100",
+    "type": "split",
+    "children": [
+      {
+        "id": "20646633ff057f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68dba7d25a9e0356",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "796e715b48fafd5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cf8fa16ef65d30f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "144e226bcab76b72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2536c6897398c66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "143400242f246e1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7752bd00a7f6c4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "04820e18b341fd20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3971bf506dcbc1e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "394aa06f9e0e6456",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c83a88f8565ded66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2df7c90899136a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68dba7d25a9e0356",
+  "lastOpenFiles": [
+    "principles and patterns/SOLID/D - Dependency inversion.md",
+    "principles and patterns/SOLID/O - Open close principle.md",
+    "principles and patterns/SOLID/I - Interface segregation principle.md",
+    "assets/images/1_Qk8tDmjQlyvwKxNTfXIo0Q.webp",
+    "principles and patterns/SOLID/S - Single responsibility principle.md",
+    "assets/images/solid-article-image-2.png",
+    "assets/images/1_2hmyR9L43Vm64MYxj4Y89w.webp",
+    "principles and patterns/SOLID/L - Liskov substitution principle.md",
+    "assets/images/1_yKk2XKJaCLNlDxQMx1r55Q.webp",
+    "S - Single responsibility principle/`InvoicePersistence`.md",
+    "assets/images/solid-article-image-1.png",
+    "Untitled.canvas",
+    "S - Single responsibility principle",
+    "assets/images/1_0MtFBmm6L2WVM04qCJOZPQ.webp",
+    "assets/images/1_P3oONz9Da3Tc1w97fMV73Q.webp",
+    "assets/images",
+    "assets",
+    "principles and patterns/SOLID.md",
+    "principles and patterns/SOLID",
+    "principles and patterns.md",
+    "principles and patterns"
+  ]
+}
